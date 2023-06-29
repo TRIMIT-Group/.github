@@ -9,4 +9,5 @@ For more information about TRIMIT, please look at [trimit.com](https://trimit.co
 **Main contact person is:**
 
 Kristian Ruseng Frandsen
+
 kef@trimit.com
