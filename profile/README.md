@@ -8,6 +8,6 @@ For more information about TRIMIT, please look at [trimit.com](https://trimit.co
 
 **Main contact person is:**
 
-Kristian Ruseng Frandsen
+Lars Møller Sørensen
 
-kef@trimit.com
+lms@trimit.com
